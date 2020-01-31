@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5e31c847afa14fec0077a589"},"id":"d659d5b8-4eb8-483a-a3bb-936b9441f2c8","titulo":"Hola","contenido":"Ahora","autor":"Si","fecha":{"$date":"2020-01-29T18:00:39.285Z"},"__v":0}
+{"_id":{"$oid":"5e31c889afa14fec0077a58a"},"id":"d9864996-2691-4ce2-9e31-75be6569bb82","titulo":"2.Prueba","contenido":"Si o no","autor":"Francisco","fecha":{"$date":"2020-01-29T18:01:45.825Z"},"__v":0}
